@@ -3,7 +3,7 @@
 ## Aim
 To develop a Flutter application that stores and retrieves student records using Google Cloud Firestore.
 
-## Description
+## Description - updated
 This experiment demonstrates cloud-based data persistence using Flutter and Firebase Cloud Firestore. The application allows users to enter student details, save them to the cloud database, and retrieve and display the stored records.
 
 ## Technologies Used
